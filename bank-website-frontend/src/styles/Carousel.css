@@ -1,0 +1,24 @@
+/* src/styles/Carousel.css */
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+    position: relative;
+  }
+  
+  .carousel-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  /* src/styles/Carousel.css */
+.carousel-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  

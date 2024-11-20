@@ -1,0 +1,20 @@
+/* src/styles/Heroes.css */
+.heroes {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem 1rem;
+  }
+  
+  .hero-item {
+    background-color: #eaf4fc;
+    border: 1px solid #cce1f7;
+    border-radius: 8px;
+    padding: 2rem;
+    width: 200px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
